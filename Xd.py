@@ -36,8 +36,7 @@ header = {'x-fb-connection-bandwidth': repr(bd), 'x-fb-sim-hni': repr(sim), 'x-f
 
 
 
-                                
-\033[0;92m_  __ ____     _     _ 
+                                _  __ ____     _     _ 
 / |/ //  _ \   / |/\ / |
 |   / | / \|   | |\_\| |
 |   \ | \_/|/\_| |   | |
